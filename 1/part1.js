@@ -81,6 +81,7 @@ console.log(`من دوست دارم ${age >= 18 ? 'Wine 🍷' : 'Water 💧'} ب
 
 let gg= age>18 ? 'wine' : 'water';
 
+
 // function
 
 function name(parameter) {
