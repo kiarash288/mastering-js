@@ -92,6 +92,8 @@ console.log(title.padEnd(20, '.'));
   // repeat 
 
   const announcement = 'All passengers come to boarding door 23. Boarding door 23!';
+  console.log(announcement.repeat(5));
+  // خروجی: All passengers come to boarding door 23. Boarding door 23!All passengers come to boarding door 23. Boarding door 23!All passengers come to boarding door 23. Boarding door 23!All passengers come to boarding door 23. Boarding door 23!All passengers come to boarding door 23. Boarding door 23!
 
 // replace: فقط اولین door رو عوض می‌کنه (اشتباه رایج)
 console.log(announcement.replace('door', 'gate'));

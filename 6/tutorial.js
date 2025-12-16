@@ -89,3 +89,4 @@ book.apply(eurowings, flightData);
   console.log(jonas.name); // خروجی: "Mr. Jonas"
 
   
+
