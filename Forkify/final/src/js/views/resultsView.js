@@ -11,5 +11,4 @@ class ResultsView extends View {
     return this._data.map(result => previewView.render(result, false)).join('');
   }
 }
-
 export default new ResultsView();
